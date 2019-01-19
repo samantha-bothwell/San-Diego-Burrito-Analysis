@@ -8,7 +8,7 @@ We made two models to analyze:
 
 Analysis was done using a Block Gibbs Sampler.
 
-Files uploaded:
+#### Files uploaded:
 1. BurritoPresentation.Rmd
 
    - R Markdown file that runs through the code for presentation slides

@@ -6,6 +6,8 @@ We made two models to analyze:
 * Looked at only meat ingredients to determine how each affected the cost.
 * Looked at all 10 common burrito ingredients to determine how each affected the cost
 
+Analysis was done using a Block Gibbs Sampler.
+
 Files uploaded:
 1. BurritoPresentation.Rmd
 

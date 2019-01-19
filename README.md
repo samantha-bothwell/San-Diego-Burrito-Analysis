@@ -9,16 +9,16 @@ We made two models to analyze:
 Files uploaded:
 1. BurritoPresentation.Rmd
 
-⋅⋅⋅R Markdown file that runs through the code for presentation slides
+   - R Markdown file that runs through the code for presentation slides
 
 2. BurritoPresentation.pdf
 
-⋅⋅⋅Presentation of burrito analysis
+   - Presentation of burrito analysis
 
 3. burrito_project.R
 
-⋅⋅⋅Exploratory code for analyzing the data
+   - Exploratory code for analyzing the data
 
 4. burritodata.Rda
 
-⋅⋅⋅Data set obtained from Kaggle
+   - Data set obtained from Kaggle
